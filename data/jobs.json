@@ -1,0 +1,676 @@
+{
+  "jobs": [
+    {
+      "id": "job_001",
+      "title": "Frontend Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid–Senior",
+      "location": { "type": "Remote", "city": null, "country": "Global" },
+      "salary": { "currency": "INR", "min": 1800000, "max": 2500000, "frequency": "yearly", "displayText": "₹18–25 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React", "JavaScript"], "secondary": ["TypeScript", "Accessibility"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-01-18" }] },
+      "application": {
+        "appliedDate": "2026-01-18",
+        "lastUpdated": "2026-01-20",
+        "jobUrl": "https://stripe.com/jobs",
+        "source": "Referral",
+        "notes": "Waiting for recruiter response."
+      },
+      "priority": "High",
+      "company": {
+        "id": "company_stripe",
+        "name": "Stripe",
+        "industry": "Fintech",
+        "size": "5000+",
+        "headquarters": "San Francisco, USA",
+        "website": "https://stripe.com",
+        "logo": "https://logo.clearbit.com/stripe.com",
+        "techStack": ["React", "Ruby", "Go", "AWS"]
+      }
+    },
+    {
+      "id": "job_002",
+      "title": "React Developer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Hybrid", "city": "Bangalore", "country": "India" },
+      "salary": { "currency": "INR", "min": 1500000, "max": 2200000, "frequency": "yearly", "displayText": "₹15–22 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React", "TypeScript"], "secondary": ["Redux"] },
+      "status": { "current": "Interview", "history": [{ "state": "Applied", "date": "2026-01-10" }, { "state": "Interview", "date": "2026-01-25" }] },
+      "application": {
+        "appliedDate": "2026-01-10",
+        "lastUpdated": "2026-01-25",
+        "jobUrl": "https://www.atlassian.com/company/careers",
+        "source": "Careers Page",
+        "notes": "Technical interview scheduled."
+      },
+      "priority": "Medium",
+      "company": {
+        "id": "company_atlassian",
+        "name": "Atlassian",
+        "industry": "SaaS",
+        "size": "10000+",
+        "headquarters": "Sydney, Australia",
+        "website": "https://atlassian.com",
+        "logo": "https://logo.clearbit.com/atlassian.com",
+        "techStack": ["React", "TypeScript", "Java", "AWS"]
+      }
+    },
+    {
+      "id": "job_003",
+      "title": "UI Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Senior",
+      "location": { "type": "Remote", "city": null, "country": "Global" },
+      "salary": { "currency": "INR", "min": 2000000, "max": 2800000, "frequency": "yearly", "displayText": "₹20–28 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+}
+,
+      "skills": { "primary": ["React", "CSS"], "secondary": ["Design Systems"] },
+      "status": { "current": "Rejected", "history": [{ "state": "Applied", "date": "2025-12-28" }, { "state": "Rejected", "date": "2026-01-12" }] },
+      "application": {
+        "appliedDate": "2025-12-28",
+        "lastUpdated": "2026-01-12",
+        "jobUrl": "https://www.notion.so/careers",
+        "source": "LinkedIn",
+        "notes": "Good feedback, no offer."
+      },
+      "priority": "Low",
+      "company": {
+        "id": "company_notion",
+        "name": "Notion",
+        "industry": "Productivity",
+        "size": "1000–2000",
+        "headquarters": "San Francisco, USA",
+        "website": "https://notion.so",
+        "logo": "https://logo.clearbit.com/notion.so",
+        "techStack": ["React", "Electron", "Node.js"]
+      }
+    },
+    {
+      "id": "job_004",
+      "title": "Frontend Developer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Onsite", "city": "Bangalore", "country": "India" },
+      "salary": { "currency": "INR", "min": 1200000, "max": 1800000, "frequency": "yearly", "displayText": "₹12–18 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React", "JavaScript"], "secondary": ["Performance"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-01-22" }] },
+      "application": {
+        "appliedDate": "2026-01-22",
+        "lastUpdated": "2026-01-22",
+        "jobUrl": "https://careers.swiggy.com",
+        "source": "Company Website",
+        "notes": ""
+      },
+      "priority": "Medium",
+      "company": {
+        "id": "company_swiggy",
+        "name": "Swiggy",
+        "industry": "Food Tech",
+        "size": "5000+",
+        "headquarters": "Bangalore, India",
+        "website": "https://swiggy.com",
+        "logo": "https://logo.clearbit.com/swiggy.com",
+        "techStack": ["React", "Node.js", "AWS"]
+      }
+    },
+    {
+      "id": "job_005",
+      "title": "Software Engineer – Frontend",
+      "employmentType": "Full-time",
+      "experienceLevel": "Junior–Mid",
+      "location": { "type": "Hybrid", "city": "Hyderabad", "country": "India" },
+      "salary": { "currency": "INR", "min": 1000000, "max": 1600000, "frequency": "yearly", "displayText": "₹10–16 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React"], "secondary": ["Charts", "APIs"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-01-30" }] },
+      "application": {
+        "appliedDate": "2026-01-30",
+        "lastUpdated": "2026-01-30",
+        "jobUrl": "https://careers.microsoft.com",
+        "source": "LinkedIn",
+        "notes": ""
+      },
+      "priority": "Medium",
+      "company": {
+        "id": "company_microsoft",
+        "name": "Microsoft",
+        "industry": "Technology",
+        "size": "100000+",
+        "headquarters": "Redmond, USA",
+        "website": "https://microsoft.com",
+        "logo": "https://logo.clearbit.com/microsoft.com",
+        "techStack": ["React", "TypeScript", "Azure"]
+      }
+    },
+    {
+      "id": "job_006",
+      "title": "Frontend Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Remote", "city": null, "country": "India" },
+      "salary": { "currency": "INR", "min": 1400000, "max": 2000000, "frequency": "yearly", "displayText": "₹14–20 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React", "JavaScript"], "secondary": ["Security"] },
+      "status": { "current": "Interview", "history": [{ "state": "Applied", "date": "2026-01-05" }, { "state": "Interview", "date": "2026-01-19" }] },
+      "application": {
+        "appliedDate": "2026-01-05",
+        "lastUpdated": "2026-01-19",
+        "jobUrl": "https://razorpay.com/jobs",
+        "source": "Referral",
+        "notes": "Hiring manager round pending."
+      },
+      "priority": "High",
+      "company": {
+        "id": "company_razorpay",
+        "name": "Razorpay",
+        "industry": "Fintech",
+        "size": "3000+",
+        "headquarters": "Bangalore, India",
+        "website": "https://razorpay.com",
+        "logo": "https://logo.clearbit.com/razorpay.com",
+        "techStack": ["React", "Node.js", "AWS"]
+      }
+    },
+    {
+      "id": "job_007",
+      "title": "Web Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Senior",
+      "location": { "type": "Remote", "city": null, "country": "Global" },
+      "salary": { "currency": "INR", "min": 2200000, "max": 3000000, "frequency": "yearly", "displayText": "₹22–30 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+}
+,
+      "skills": { "primary": ["React"], "secondary": ["Performance"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-02-01" }] },
+      "application": {
+        "appliedDate": "2026-02-01",
+        "lastUpdated": "2026-02-01",
+        "jobUrl": "https://linear.app/careers",
+        "source": "Twitter",
+        "notes": ""
+      },
+      "priority": "Medium",
+      "company": {
+        "id": "company_linear",
+        "name": "Linear",
+        "industry": "SaaS",
+        "size": "100–200",
+        "headquarters": "Remote",
+        "website": "https://linear.app",
+        "logo": "https://logo.clearbit.com/linear.app",
+        "techStack": ["React", "TypeScript"]
+      }
+    },
+    {
+      "id": "job_008",
+      "title": "Frontend Developer",
+      "employmentType": "Contract",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Remote", "city": null, "country": "India" },
+      "salary": { "currency": "INR", "min": 800000, "max": 1200000, "frequency": "yearly", "displayText": "₹8–12 LPA" },
+     "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React"], "secondary": ["Charts"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-01-15" }] },
+      "application": {
+        "appliedDate": "2026-01-15",
+        "lastUpdated": "2026-01-15",
+        "jobUrl": "https://careers.zomato.com",
+        "source": "Company Website",
+        "notes": ""
+      },
+      "priority": "Low",
+      "company": {
+        "id": "company_zomato",
+        "name": "Zomato",
+        "industry": "Food Tech",
+        "size": "5000+",
+        "headquarters": "Gurgaon, India",
+        "website": "https://zomato.com",
+        "logo": "https://logo.clearbit.com/zomato.com",
+        "techStack": ["React", "Node.js"]
+      }
+    },
+    {
+      "id": "job_009",
+      "title": "Frontend Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Hybrid", "city": "Pune", "country": "India" },
+      "salary": { "currency": "INR", "min": 1300000, "max": 1900000, "frequency": "yearly", "displayText": "₹13–19 LPA" },
+   "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React"], "secondary": ["Testing"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-01-28" }] },
+      "application": {
+        "appliedDate": "2026-01-28",
+        "lastUpdated": "2026-01-28",
+        "jobUrl": "https://www.sap.com/about/careers.html",
+        "source": "Careers Page",
+        "notes": ""
+      },
+      "priority": "Low",
+      "company": {
+        "id": "company_sap",
+        "name": "SAP",
+        "industry": "Enterprise Software",
+        "size": "100000+",
+        "headquarters": "Walldorf, Germany",
+        "website": "https://sap.com",
+        "logo": "https://logo.clearbit.com/sap.com",
+        "techStack": ["React", "Java", "Cloud"]
+      }
+    },
+    {
+      "id": "job_010",
+      "title": "Frontend Engineer",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-level",
+      "location": { "type": "Remote", "city": null, "country": "Global" },
+      "salary": { "currency": "INR", "min": 1600000, "max": 2300000, "frequency": "yearly", "displayText": "₹16–23 LPA" },
+      "descriptions": {
+  "summary": "We are looking for a Frontend Engineer to help build intuitive, scalable, and high-performance user interfaces used by millions of customers globally.",
+
+  "responsibilities": [
+    "Design, develop, and maintain complex frontend features using React and modern JavaScript.",
+    "Collaborate closely with product managers, designers, and backend engineers to translate requirements into high-quality UI.",
+    "Write clean, maintainable, and testable code following best practices.",
+    "Optimize applications for maximum speed, scalability, and accessibility.",
+    "Participate in code reviews, technical discussions, and architectural decisions.",
+    "Continuously improve frontend tooling, workflows, and developer experience."
+  ],
+
+  "requirements": [
+    "3+ years of professional experience building web applications.",
+    "Strong proficiency in JavaScript, HTML, and CSS.",
+    "Hands-on experience with React and modern frontend frameworks.",
+    "Solid understanding of REST APIs and asynchronous data handling.",
+    "Experience with version control systems like Git.",
+    "Ability to write clean, readable, and well-structured code."
+  ],
+
+  "preferredQualifications": [
+    "Experience with TypeScript.",
+    "Familiarity with accessibility standards (WCAG).",
+    "Experience working with design systems or component libraries.",
+    "Knowledge of frontend performance optimization techniques.",
+    "Exposure to cloud platforms like AWS or Azure."
+  ],
+
+  "benefits": [
+    "Competitive salary and performance-based bonuses.",
+    "Flexible work hours and remote-friendly culture.",
+    "Health insurance coverage for you and your family.",
+    "Generous paid time off and wellness programs.",
+    "Learning budget for courses, conferences, and books."
+  ],
+
+  "aboutCompany": "Our company is building modern financial infrastructure that enables businesses of all sizes to operate globally. We value ownership, transparency, and thoughtful execution, and we strive to create an environment where engineers can do their best work."
+},
+      "skills": { "primary": ["React"], "secondary": ["UX"] },
+      "status": { "current": "Applied", "history": [{ "state": "Applied", "date": "2026-02-02" }] },
+      "application": {
+        "appliedDate": "2026-02-02",
+        "lastUpdated": "2026-02-02",
+        "jobUrl": "https://careers.greenhouse.io",
+        "source": "Company Website",
+        "notes": ""
+      },
+      "priority": "Medium",
+      "company": {
+        "id": "company_greenhouse",
+        "name": "Greenhouse",
+        "industry": "HR Tech",
+        "size": "1000+",
+        "headquarters": "New York, USA",
+        "website": "https://greenhouse.io",
+        "logo": "https://logo.clearbit.com/greenhouse.io",
+        "techStack": ["React", "Node.js"]
+      }
+    }
+  ]
+}
